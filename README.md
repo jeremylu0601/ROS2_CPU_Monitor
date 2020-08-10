@@ -8,7 +8,7 @@ Open a terminal and unzip the .zip file
     
 I have build the package, so we can run the node directly
     
-    cd ~/ROS2_CPU_Monitor/ROS2_CPU_Monitor/
+    cd ~/ROS2_CPU_Monitor/cpu_monitor/
     source install/setup.bash
     ros2 run cpu_monitor monitor
     # show the average CPU usage
