@@ -37,13 +37,13 @@ Supposed only avg_cpu_usage.csv is provided,
 
     python3 plot.py -f ./cpu_monitor/avg_cpu_usage.csv
     
-<img src="https://github.com/jeremylu0601/ROS2_CPU_Monitor/blob/master/images/Individual.png" width="600" height="200">
+<img src="https://github.com/jeremylu0601/ROS2_CPU_Monitor/blob/master/images/Average_CPU_Usage.png" width="600" height="200">
 
 Supposed each_cpu_usage.csv and are provided,
 
     python3 plot.py -f ./cpu_monitor/each_cpu_usage.csv -t 1597045419.8421
 
-<img src="https://github.com/jeremylu0601/ROS2_CPU_Monitor/blob/master/images/Individual.png" width="600" height="200">
+<img src="https://github.com/jeremylu0601/ROS2_CPU_Monitor/blob/master/images/Each_CPU_Usage.png" width="600" height="200">
     
 
 
