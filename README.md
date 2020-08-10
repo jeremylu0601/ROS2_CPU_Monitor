@@ -4,7 +4,7 @@ Open a terminal and unzip the .zip file
 
     git clone https://github.com/jeremylu0601/ROS2_CPU_Monitor.git
     cd ROS2_CPU_Monitor/
-    unzip ROS2_CPU_Monitor.zip 
+    unzip cpu_monitor.zip 
     
 I have build the package, so we can run the node directly
     
